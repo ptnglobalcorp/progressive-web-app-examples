@@ -1,0 +1,23 @@
+.page {
+    ion-toolbar {
+        --background: var(--ion-color-primary);
+        --border-style: none;
+        --border-color: transparent;
+        --padding-top: 1rem;
+        --padding-bottom: 1rem;
+        --padding-start: 1rem;
+        --padding-end: 1rem;
+    }
+    .content{
+        height: auto;
+        min-height: 100%;
+        background: linear-gradient(to top, #96C8DC, #56B2DB);
+        .headingText{
+            text-align: center;
+        }
+    }
+    ion-footer {
+        background-color: #428CFF;
+        color: white;
+    }
+}

@@ -1,0 +1,30 @@
+.page {
+  .content {
+    height: auto;
+    min-height: 100%;
+    background: linear-gradient(to top, #96c8dc, #56b2db);
+    ion-card-title {
+      color: #fff !important;
+      background: linear-gradient(90deg, #3023ae, #c86dd7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+      text-shadow: none;
+      letter-spacing: -0.08rem;
+      font-weight: 900 !important;
+      font-family: none;
+    }
+    .heading {
+      margin-top: 7rem;
+    }
+    .button {
+      font-size: 1.2rem;
+      margin-top: 1rem;
+    }
+  }
+  ion-footer {
+    background-color: #428cff;
+    color: white;
+  }
+}

@@ -1,0 +1,30 @@
+.page {
+  ion-toolbar {
+    --background: var(--ion-color-primary);
+    --border-style: none;
+    --border-color: transparent;
+    --padding-top: 1rem;
+    --padding-bottom: 1rem;
+    --padding-start: 1rem;
+    --padding-end: 1rem;
+  }
+  .content {
+    height: auto;
+    min-height: 100%;
+    background: linear-gradient(to top, #96c8dc, #56b2db);
+    .headingText {
+      margin-bottom: 0px;
+    }
+    ion-card-title{
+        color: #000f99;
+    }
+    .pollQuestion{
+      --background: #fff;
+      color:#000
+    }
+  }
+  ion-footer {
+    background: linear-gradient(to right, #56b2db, #96c8dc);
+    color: white;
+  }
+}

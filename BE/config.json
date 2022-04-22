@@ -1,0 +1,8 @@
+{
+  "couchdb": {
+    "uuid": "645cc71f-8767-40ee-8639-210b9649f9af"
+  },
+  "couch_httpd_auth": {
+    "timeout": 10
+  }
+}

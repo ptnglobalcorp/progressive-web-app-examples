@@ -1,0 +1,11 @@
+2022/04/15-23:38:36.647 28c4 Recovering log #52
+2022/04/15-23:38:36.663 28c4 Level-0 table #56: started
+2022/04/15-23:38:36.724 28c4 Level-0 table #56: 1489045 bytes OK
+2022/04/15-23:38:36.729 28c4 Delete type=0 #52
+2022/04/15-23:38:36.730 28c4 Delete type=3 #45
+2022/04/15-23:44:15.284 a39c Compacting 1@0 + 1@1 files
+2022/04/15-23:44:15.304 a39c Generated table #58@0: 1694 keys, 274191 bytes
+2022/04/15-23:44:15.304 a39c Compacted 1@0 + 1@1 files => 274191 bytes
+2022/04/15-23:44:15.305 a39c compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/04/15-23:44:15.306 a39c Delete type=2 #54
+2022/04/15-23:44:15.306 a39c Delete type=2 #56
